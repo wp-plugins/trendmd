@@ -84,30 +84,30 @@ TrendMD recommends over 9M scholarly articles to 2M readers per month and contin
 
 TrendMD's participating publishers are:
 
-Anderson Publishing Inc. 
-BMJ Group 
-Cambridge University Press 
-Co-Action Publishing 
-De Gruyter 
-Figure1 
-Frontline Medical Communications 
-International Innovation (Research Media) 
-JAMA Network 
-JMIR Publications Inc. 
-Journal of Young Investigators 
-Libertas Academica 
-MedTech Boston 
-Nature Publishing Group 
-Policy Press 
-Rockefeller University Press 
-Smith and Franklin Academic Publishing Corporation 
-The Doctor's Channel 
-The Winnower 
-Taylor & Francis 
-TopHat 
-Bentham Science Publishers 
-In Press Media Group 
-Wichtig Publishing 
-Wolters Kluwer Health.
+Anderson Publishing Inc.  
+BMJ Group  
+Cambridge University Press   
+Co-Action Publishing  
+De Gruyter  
+Figure1  
+Frontline Medical Communications  
+International Innovation (Research Media)  
+JAMA Network  
+JMIR Publications Inc.  
+Journal of Young Investigators  
+Libertas Academica  
+MedTech Boston  
+Nature Publishing Group   
+Policy Press  
+Rockefeller University Press  
+Smith and Franklin Academic Publishing Corporation  
+The Doctor's Channel  
+The Winnower  
+Taylor & Francis  
+TopHat  
+Bentham Science Publishers  
+In Press Media Group   
+Wichtig Publishing  
+Wolters Kluwer Health. 
 
 Our technology is platform agnostic and is compatible with Atypon, Highwire, Publishing Technology, Silverchair, OJS, and others.
