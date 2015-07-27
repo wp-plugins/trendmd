@@ -15,14 +15,14 @@ This plugin will add the TrendMD recommendations widget to your WordPress websit
 The TrendMD recommendations widget is used by scholarly publishers to increase their readership and revenue. 
 
 TrendMD for WordPress:
-* Uses TrendMD API.
+*   Uses TrendMD API.
 
 TrendMD Plugin Features:
-* Plugs JavaScript (JS) code for the recommendation widget into your website's WP code.
+*   Plugs JavaScript (JS) code for the recommendation widget into your website's WP code.
 
 WP code:
-* Index all your articles automatically
-* Customize recommendation widget placement in your website.
+*   Index all your articles automatically
+*   Customize recommendation widget placement in your website.
 
 == Installation ==
 
