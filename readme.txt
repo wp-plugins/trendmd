@@ -15,14 +15,14 @@ This plugin will add the TrendMD recommendations widget to your WordPress websit
 The TrendMD recommendations widget is used by scholarly publishers to increase their readership and revenue. 
 
 TrendMD for WordPress:
-* Uses TrendMD API
+* Uses TrendMD API.
 
 TrendMD Plugin Features:
-* Plugs JavaScript (JS) code for the recommendation widget into your website's WP code
+* Plugs JavaScript (JS) code for the recommendation widget into your website's WP code.
 
 WP code:
 * Index all your articles automatically
-* Customize recommendation widget placement in your website
+* Customize recommendation widget placement in your website.
 
 == Installation ==
 
@@ -43,8 +43,8 @@ PHP 5+
 
 == Support ==
 
-For general technical support please contact support@trendmd.com 
-For detailed questions about your account please contact paul@trendmd.com
+For general technical support please contact support@trendmd.com. 
+For detailed questions about your account please contact paul@trendmd.com.
 
 == Frequently Asked Questions ==
 
@@ -54,7 +54,7 @@ TrendMD is a cross-publisher content recommendation widget for scholarly website
 
 = How quickly does the WP plugin start working? =
 
-TrendMD recommendations will appear on your website within 10 or 15 minutes. If it takes any longer than that, please contact us at: support@trendmd.com
+TrendMD recommendations will appear on your website within 10 or 15 minutes. If it takes any longer than that, please contact us at: support@trendmd.com.
 
 = Is TrendMD only for medical-related content? =
 
@@ -72,42 +72,42 @@ We send a large amount of new unique visitors from many of the largest publisher
 Keep your readers reading.
 
 TrendMD looks beyond just related links to help people discover, read, and cite interesting scholarly content from your journals and websites through personalized recommendations. Our recommendation algorithms continuously optimize the placements of links to your content for the right audience while readers are actively looking for something interesting to discover
-Monetize content
+Monetize content.
 
 Enhance the user experience while increasing revenue by showcasing personalized links to sponsored scholarly content from other publishers
-Simple, free, and fully customizable
+Simple, free, and fully customizable.
 
-With just 3 lines of code, TrendMD can be added to your websites. You always retain full editorial control over both the appearance and the content displayed by widget
+With just 3 lines of code, TrendMD can be added to your websites. You always retain full editorial control over both the appearance and the content displayed by widget.
 
 = Who else uses TrendMD? =
 TrendMD recommends over 9M scholarly articles to 2M readers per month and continues to grow.
 
 TrendMD's participating publishers are:
 
-Anderson Publishing Inc.
-BMJ Group
-Cambridge University Press
-Co-Action Publishing
-De Gruyter
-Figure1
-Frontline Medical Communications
-International Innovation (Research Media)
-JAMA Network
-JMIR Publications Inc.
-Journal of Young Investigators
-Libertas Academica
-MedTech Boston
-Nature Publishing Group
-Policy Press
-Rockefeller University Press
-Smith and Franklin Academic Publishing Corporation
-The Doctor's Channel
-The Winnower
-Taylor & Francis
-TopHat
-Bentham Science Publishers
-In Press Media Group
-Wichtig Publishing
-Wolters Kluwer Health
+Anderson Publishing Inc. 
+BMJ Group 
+Cambridge University Press 
+Co-Action Publishing 
+De Gruyter 
+Figure1 
+Frontline Medical Communications 
+International Innovation (Research Media) 
+JAMA Network 
+JMIR Publications Inc. 
+Journal of Young Investigators 
+Libertas Academica 
+MedTech Boston 
+Nature Publishing Group 
+Policy Press 
+Rockefeller University Press 
+Smith and Franklin Academic Publishing Corporation 
+The Doctor's Channel 
+The Winnower 
+Taylor & Francis 
+TopHat 
+Bentham Science Publishers 
+In Press Media Group 
+Wichtig Publishing 
+Wolters Kluwer Health.
 
 Our technology is platform agnostic and is compatible with Atypon, Highwire, Publishing Technology, Silverchair, OJS, and others.
