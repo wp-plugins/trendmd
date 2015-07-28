@@ -114,4 +114,4 @@ Our technology is platform agnostic and is compatible with Atypon, Highwire, Pub
 
 == Screenshots ==
 
-6. TrendMD widget
+1. TrendMD widget
