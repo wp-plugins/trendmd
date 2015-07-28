@@ -111,3 +111,7 @@ Wichtig Publishing
 Wolters Kluwer Health. 
 
 Our technology is platform agnostic and is compatible with Atypon, Highwire, Publishing Technology, Silverchair, OJS, and others.
+
+== Screenshots ==
+
+6. TrendMD widget
