@@ -114,4 +114,12 @@ Our technology is platform agnostic and is compatible with Atypon, Highwire, Pub
 
 == Screenshots ==
 
-1. TrendMD widget
+1. From your WordPress dashboard click on 'Plugins' - 'Add new', then search for 'TrendMD' and click 'Install Now'  
+
+2. Once the plugin is done installing, click 'Activate Plugin'  
+
+3. The TrendMD WordPress plugin will then index all of your WordPress article posts  
+
+4. Once indexing is complete, recommendations should appear in your website within 10 minutes (if this doesn't happen, please click on the 'Contact support' button)  
+
+5. The recommendations widget  
